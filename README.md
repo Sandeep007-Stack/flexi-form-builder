@@ -21,25 +21,25 @@ One schema. Multiple styles. Dynamic forms for modern frontend apps.
 Install directly from GitHub:
 
 ```bash
-npm install github:your-username/flexi-form-builder
+npm install github:Sandeep007-Stack/flexi-form-builder
 ```
 
 Install from a branch:
 
 ```bash
-npm install github:your-username/flexi-form-builder#main
+npm install github:Sandeep007-Stack/flexi-form-builder#main
 ```
 
 Install from a tag:
 
 ```bash
-npm install github:your-username/flexi-form-builder#v1.0.0
+npm install github:Sandeep007-Stack/flexi-form-builder#v1.0.0
 ```
 
 Install from a private repository URL:
 
 ```bash
-npm install git+https://github.com/your-username/flexi-form-builder.git
+npm install git+ssh://git@github.com/Sandeep007-Stack/flexi-form-builder.git
 ```
 
 If you plan to distribute directly from GitHub, build the package before tagging or commit the generated `dist/` output as part of your release workflow.
